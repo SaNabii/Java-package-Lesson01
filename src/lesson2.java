@@ -7,6 +7,7 @@ public class lesson2 {
         printPositiveOrNegative(-3, 5);
         printWordNTimes ("Hi" , 6);
         isPositiveOrNegative(-6);
+        within10and20(5,15);
     }
 
 
